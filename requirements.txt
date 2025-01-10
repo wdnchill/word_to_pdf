@@ -1,0 +1,4 @@
+easygui==0.98.3
+plum-dispatch==1.7.4
+Spire.Doc==12.12.0
+tk==0.1.0
